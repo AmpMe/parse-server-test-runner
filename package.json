@@ -1,0 +1,41 @@
+{
+  "name": "parse-server-test-runner",
+  "version": "1.0.0",
+  "description": "Helper functions for creating temporary parse-server instances",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "eslint ."
+  },
+  "engines": {
+    "node": ">=6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmpMe/parse-server-test-runner.git"
+  },
+  "keywords": [
+    "parse",
+    "parse-server",
+    "testing",
+    "tests"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AmpMe/parse-server-test-runner/issues"
+  },
+  "homepage": "https://github.com/AmpMe/parse-server-test-runner#readme",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "express": "latest",
+    "mongodb": "^2.2.30",
+    "mongodb-runner": "^3.5.0",
+    "parse": "^1.10.0",
+    "parse-server": "^2.5.3"
+  },
+  "devDependencies": {
+    "eslint": "^4.2.0",
+    "eslint-config-google": "^0.9.1"
+  }
+}
+
