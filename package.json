@@ -36,8 +36,8 @@
     "eslint-config-google": "^0.9.1"
   },
   "peerDependencies": {
-    "parse": "^1.10.0",
-    "parse-server": "^2.5.3"
+    "parse": ">= 1 < 2",
+    "parse-server": ">= 6 < 7"
   }
 }
 
