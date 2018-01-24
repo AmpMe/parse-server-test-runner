@@ -1,4 +1,7 @@
 # Parse Server Test Runner
+
+[![npm version](https://img.shields.io/npm/v/parse-server-test-runner.svg?style=flat)](https://www.npmjs.com/package/parse-server-test-runner)
+
 This library allows [Parse Server](https://github.com/parse-community/parse-server) to be set up programmatically for testing purposes.
 
 ## Example
