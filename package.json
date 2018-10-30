@@ -29,7 +29,7 @@
     "bluebird": "^3.5.0",
     "express": "latest",
     "mongodb": "^2.2.30",
-    "mongodb-runner": "^3.5.0",
+    "mongodb-runner": "^4.0.0",
     "parse": "^2.0.0",
     "parse-server": "^3.0.0"
   },
